@@ -24,7 +24,7 @@ class Circle(Base):
        ' - , _ _ _ ,  '
                """
     def shape(self):
-        print("This is a circle")
+        return "This is a circle"
 def main():
     s = Circle(2,2,1)
     s.shape()
