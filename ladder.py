@@ -6,4 +6,4 @@ def my_steps(n):
     else:
         return my_steps(n-1) + my_steps(n-2)
 
-print(my_steps(26))
+print(my_steps(0))
