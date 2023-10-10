@@ -1,4 +1,4 @@
 def allcaps(func):
     def wrapper():
-        print(func().upper())
+        return func().upper()
     return wrapper
