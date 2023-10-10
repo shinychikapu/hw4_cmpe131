@@ -7,4 +7,4 @@ def sort_dictionary(my_dict:dict):
     except:
         raise TypeError
 
-#print(sort_dictionary({'Tom' : (5464512, 24) , 'Sara' : (5446987, 32) , 'Mary' : (1557896, 20)}))S
+print(sort_dictionary({'Dundir' : (8888888888, 24) , 'Garrik' : (6518828882, 32) , 'Vinncent' : (1231231234, 20)}))
