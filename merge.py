@@ -14,6 +14,6 @@ def merge_list(arr1:list, arr2:list):
         return new_arr
     
     except:
-        print("Error! Please input 2 lists of integers")
+        raise TypeError
 
 # print(merge_list([1,4,3], [6,3,7]))
