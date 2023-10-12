@@ -1,4 +1,4 @@
-def sort_dictionary(my_dict:dict):
+def reverse_sort_dictionary(my_dict:dict):
     try:
         key_list = list(my_dict.keys())
         key_list.sort(reverse = True)
@@ -7,4 +7,4 @@ def sort_dictionary(my_dict:dict):
     except:
         raise TypeError
 
-print(sort_dictionary({'Dundir' : (8888888888, 24) , 'Garrik' : (6518828882, 32) , 'Vinncent' : (1231231234, 20)}))
+print(reverse_sort_dictionary({'Dundir' : (8888888888, 24) , 'Garrik' : (6518828882, 32) , 'Vinncent' : (1231231234, 20)}))

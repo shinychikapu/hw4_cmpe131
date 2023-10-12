@@ -1,0 +1,5 @@
+1. Does the change inside increment_int_a change the variable a after the function call?
+No, increment_int_a doesn't change a after the function call
+2. Does the change inside increment_int_b change the variable b after the function call?
+No, increment_int_b doesn't change b after the function call.
+3. If they differ answer why? if not why not?
