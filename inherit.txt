@@ -1,0 +1,2 @@
+1. To establish the relationship between classes 
+2. To reduce rewriting code for classes that do similar thing
